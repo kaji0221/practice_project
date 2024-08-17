@@ -14,8 +14,5 @@ public class FizzBuzz {
 				System.out.println(i);
 			}
 		}
-		// TODO Auto-generated method stub
-
 	}
-
 }

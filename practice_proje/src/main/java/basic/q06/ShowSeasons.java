@@ -4,6 +4,7 @@ public class ShowSeasons {
 
 	public static void main(String[] args) {
 		int month = 1;
+
 		switch (month) {
 		case 12:
 		case 1:
@@ -28,8 +29,5 @@ public class ShowSeasons {
 			System.out.println(month + "月は存在しないです");
 			break;
 		}
-		// TODO Auto-generated method stub
-
 	}
-
 }
