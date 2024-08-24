@@ -11,8 +11,8 @@ public class SumNumbers2 {
 
 		int result = calculateSum(number1, number2);
 
-		System.out.println("第一引数(整数):"+number1);
-		System.out.println("第二引数(実数):"+number2);
-		System.out.println("加算結果:"+result);
+		System.out.println("第一引数(整数):" + number1);
+		System.out.println("第二引数(実数):" + number2);
+		System.out.println("加算結果:" + result);
 	}
 }

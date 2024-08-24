@@ -7,11 +7,11 @@ public class Circle {
 	}
 
 	public static void main(String[] args) {
-		double radiusnum = 5.0;
+		double radiusNum = 5.0;
 
-		double sum = getCircleArea(radiusnum);
+		double sum = getCircleArea(radiusNum);
 
-		System.out.println("半径：" + radiusnum);
+		System.out.println("半径：" + radiusNum);
 		System.out.println("円の面積：" + sum);
 	}
 }
